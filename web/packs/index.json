@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "awoo.json",
+    "OS.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
