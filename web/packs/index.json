@@ -1,8 +1,8 @@
 {
   "packs": [
-    "awoo.json",
-    "OS.json",
-    "pizza.json"
+    "Awoo.json",
+    "pizza.json",
+    "OS.json"
   ],
-  "homeserver_url": "https://matrix-client.matrix.org"
+  "homeserver_url": "https://matrix.org/"
 }
